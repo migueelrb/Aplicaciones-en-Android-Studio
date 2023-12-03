@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HomeOfTheDragon</string>
+    <string name="greeting">Bienvenido Sir, con quién tengo el placer de conversar?</string>
+    <string name="dark_knight">Dark knight</string>
+    <string name="answer">Responder</string>
+    <string name="greeting_election">Sir %s, es el momento de que tomes una difícil elección...</string>
+    <string name="activity_restarted">"La Activity ha sido reiniciada (Restarted)"</string>
+    <string name="activity_started">"La Activity ha sido iniciada (Started)"</string>
+    <string name="activity_resumed">"La Activity ha pasado a primer plano (Resumed)"</string>
+    <string name="activity_paused">"La Activity ha sido pausada (Paused)"</string>
+    <string name="activity_stopped">"La Activity ha sido parada (Stopped)"</string>
+    <string name="activity_destroyed">"La Activity ha sido destruida (Destroyed)"</string>
+    <string name="election_description">"El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y de los Primeros Hombres, Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar a..."</string>
+    <string name="rhaenyra_targaryen">Rhaenyra Targaryen</string>
+    <string name="aegon_targaryen">Aegon Targaryen</string>
+    <string name="must_choice">Si no tomas una decisión no podrás salir de esta encrucijada.</string>
+    <string name="rhaenyra_choice">Has decidido apoyar a una mujer por encima del primogénito varón... Lo pagarás con sangre.</string>
+    <string name="aegon_choice">Has elegido a Aegon contra la voluntad del difunto rey... Arderás por tu elección... Dracarys!</string>
+    <string name="both_choice">Jugar a dos bandas es muy peligroso... Tu cabeza podrá rodar en cualquier momento.</string>
+    <string name="kneel">Hincar la rodilla</string>
+    <string name="none_chosen">Al no elegir a ninguno de los herederos no te expones demasiado, pero tu posición ha quedado desamparada...</string>
+    <string name="rhaenyra_chosen">Al elegir a Rhaenyra has provocado la ira de Aemon, el hermano de Aegon. Va con su dragón en tu búsqueda...</string>
+    <string name="aegon_chosen">Al elegir a Aegon, te has convertido en el principal objetivo de Rhaenyra. Tendrás algún lugar donde esconderte?</string>
+    <string name="both_chosen">Al elegir a ambos herederos has jugado todas tus cartas con un farol, te va a salir muy caro...</string>
+    <string name="start">Inicio</string>
+    <string name="before">Anterior</string>
+    <string name="exit">Salir</string>
+    <string name="say_your_name">Debes indicar tu nombre.</string>
+</resources>
